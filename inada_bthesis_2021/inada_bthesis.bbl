@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+
+\bibitem{6353522}
+A.~{Mittal}, R.~{Soundararajan}, and A.~C. {Bovik}.
+\newblock Making a “completely blind” image quality analyzer.
+\newblock {\em IEEE Signal Processing Letters}, Vol.~20, No.~3, pp. 209--212,
+  2013.
+
+\bibitem{Uesaka}
+Hiroki Uesaka, Takashi Imagawa, Hiroshi Tsutsui, and Yoshikazu Miyanaga.
+\newblock An accuracy evaluation of motion-compensated frame interpolation
+  using high-resolution video and high-frame-rate video.
+\newblock In {\em In Proc. of International Workshop on Smart Info-Media
+  Systems in Asia (SISA)}, 2016.
+
+\bibitem{Ukihashi}
+Keita Ukihashi.
+\newblock
+  2種類の解像度のフレームを混在させた動画像の特徴点補間と深層学習による復元.
+\newblock Master's thesis, Ritsumeikan, 2020.
+
+\end{thebibliography}

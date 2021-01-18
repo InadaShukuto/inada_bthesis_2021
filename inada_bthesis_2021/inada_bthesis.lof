@@ -1,0 +1,29 @@
+\addvspace {10\jsc@mpt }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces フレーム縮小}}{5}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces フレーム間引き}}{6}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces 2種類の解像度のフレームが混在する動画像}}{7}%
+\addvspace {10\jsc@mpt }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces 2 種類の解像度のフレームを混在させた動画像の特徴点補間による復元}}{10}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces 特徴点の抽出}}{13}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces 特徴点マッチング}}{13}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces ホモグラフィ変換}}{15}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces 被写体のコーナー}}{17}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces 既存手法による補間フレーム}}{19}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces 既存手法のPSNRとNIQE}}{20}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces 背景領域の特徴点のみから導出したホモグラフィ行列による変換}}{21}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces 前景領域の粗さ}}{21}%
+\addvspace {10\jsc@mpt }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces 提案手法の全体像}}{23}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces 前景と背景で特徴点を分ける}}{24}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces 前景用ホモグラフィ行列で変換したキーフレーム}}{24}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces 前景用ホモグラフィ行列で変換したキーフレームと拡大フレームの比較}}{25}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces 背景領域を投影}}{25}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces 前景領域を投影}}{25}%
+\addvspace {10\jsc@mpt }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces 既存手法(左), 提案手法(右)による補間フレーム}}{27}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces 一部が欠けた前景領域}}{28}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces 前景領域の認識ミス}}{28}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces 影の補間ができていない}}{29}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces マスクに影の領域が含まれない}}{30}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces 本来の重ね合わせの手法}}{30}%
+\addvspace {10\jsc@mpt }
